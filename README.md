@@ -21,7 +21,7 @@ Like here:
 Step four:
 Open powershell and type:
 >spicetify config current_theme Clarity
->spicetify apply
+
 
 # Artist page:
 ![image](https://user-images.githubusercontent.com/91804630/187789020-a9cdcf11-d2b0-43fb-9c37-ec9b1a145372.png)
