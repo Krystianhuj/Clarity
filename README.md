@@ -16,7 +16,7 @@ Step three:
 Put files in the target location:
 >C:\Users\YOUR_USER_NAME\AppData\Roaming\spicetify 
 >>OR 
->>>C:\Users\YOUR_USER_NAME\.spicetify
+>>>C:\Users\YOUR_USER_NAME\\.spicetify
 The location of the spicetify folder differs from version.
 
 Remember to put the files in the folder.
