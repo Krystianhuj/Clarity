@@ -6,7 +6,7 @@
 
 Step one: 
 Install Spicetify: https://spicetify.app/docs/getting-started
--Remember: If you are using Spotify from the Microsoft Store, remove and install it from the Spotify website.
+//Remember: If you are using Spotify from the Microsoft Store, remove and install it from the Spotify website.
 https://www.spotify.com/download/windows/
 
 Step two: Download color.ini & user.css
