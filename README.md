@@ -15,8 +15,8 @@ Step two: Download color.ini & user.css
 Step three: 
 Put files in the target location:
 >C:\Users\******\AppData\Roaming\spicetify 
-OR 
->>C:\Users\******\.spicetify
+>>OR 
+>>>C:\Users\******\.spicetify
 The location of the spicetify folder differs from version.
 
 Remember to put the files in the folder.
