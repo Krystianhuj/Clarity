@@ -20,7 +20,7 @@ Like here:
 
 Step four:
 Open powershell and type:
-spicetify config current_theme Clarity
+>spicetify config current_theme Clarity
 >spicetify apply
 
 # Artist page:
