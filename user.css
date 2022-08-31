@@ -1,0 +1,279 @@
+/*
+Made by Loxik#0001
+last update...
+*/
+
+
+.encore-dark-theme .encore-bright-accent-set {
+    --background-highlight: #ffffff;
+    --background-press: #ffffff;
+}
+
+
+.spotifyinternal-artistnpv .npv-up-next {
+    background: transparent;
+    border: 0px;
+}
+
+
+.Q2RPoHcoxygOoPLXLMww {
+    display: grid;
+    justify-content: center;
+
+}
+
+
+
+
+
+/*Jakies gowno do oddalenia ekranu tego typu nie pamietam co tu robilem ale jest wyzej dam to do paska z data itp bo ale chuj wie jak zrobic element -_- */
+.main-entityHeader-container {
+    color: var(--spice-text);
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    max-width: none;
+    overflow: hidden;
+    padding-bottom: 24px;
+    position: relative;
+    flex-direction: row-reverse;
+}
+
+
+
+.contentSpacing {
+    margin: auto;
+    max-width: none;
+}
+
+
+.main-trackList-trackListHeaderStuck.main-trackList-trackListHeader {
+    top: 0px!important;
+    border-bottom: transparent;
+    background: #181818!important;
+    height: 55px;
+}
+.main-trackList-trackListHeaderRow {
+
+    color: #00000000;
+}
+
+.Root__nav-bar {
+    position: absolute;
+    width: 40px;
+    opacity: 0;
+    bottom: 0;
+    left: 0;
+    top: 0;
+    z-index: 1;
+  }
+  nav.Root__nav-bar:hover {
+    position: inherit;
+    width: 225px;
+    opacity: 1;
+    transition: visibility 5s, opacity 0.5s linear;
+  }
+  .LayoutResizer__resize-bar {
+    cursor: none;
+  }
+  .Root__top-bar {
+    opacity: 0;
+    transition: visibility 5s, opacity 1s linear;
+  }
+  .Root__top-bar:hover {
+    transition-delay: 0.5s;
+    opacity: 1;
+    transition: visibility 5s, opacity 0.5s linear;
+  }
+  .main-topBar-container {
+    -webkit-padding-end: 32px;
+    padding: 16px 85px;
+    padding-inline-end: 32px;
+    max-width: none;
+  }
+  aside.main-buddyFeed-buddyFeedRoot:hover {
+    position: inherit;
+    width: var(--buddy-feed-width);
+    opacity: 1;
+    transition: visibility 5s, opacity 0.5s linear;
+    left: 0;
+  }
+  aside.main-buddyFeed-buddyFeedRoot {
+    position: absolute;
+    width: 65px;
+    opacity: 0;
+    bottom: 0;
+    left: -30px;
+    top: 0;
+    z-index: 1;
+  }
+
+
+
+
+.main-connectBar-connectBar.mVVxN9ZfIRjiQfDuzPCZ {
+    background-color: #202020;
+    color: #ffffff;
+}
+
+
+
+
+.main-connectBar-connectBar {
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -webkit-box-pack: end;
+    -ms-flex-pack: end;
+    --text-end-padding: 0px;
+    -ms-flex-direction: row;
+    flex-direction: column;
+    height: 5px;
+    justify-content: flex-end;
+    padding-bottom: 4px;
+    padding-top: 4px;
+    position: relative;
+}
+
+
+/*Settings menu itp*/
+
+.main-dropDown-dropDown {
+    background-color: #202020!important;
+}
+
+
+
+input:checked~.x-toggle-indicatorWrapper {
+    background-color: #202020!important;
+}
+
+
+.x-toggle-indicatorWrapper {
+    background-color: #ffffff1c!important;
+}
+
+.aQJknW_LvVUnrcdJNXVA {
+    background-color: #202020;
+}
+
+
+
+/*Home screen itp*/
+.main-home-homeHeader {
+    display: none;
+}
+
+.main-home-content
+    > section:first-child
+    > .main-gridContainer-gridContainer
+    > div {
+    background-color: var(--spice-card);
+}
+.main-home-content
+    > section:first-child
+    > .main-gridContainer-gridContainer
+    > div:hover {
+    background-color: var(--spice-misc);
+}
+
+.main-gridContainer-gridContainer > div,
+.main-gridContainer-gridContainer > div > div > div {
+    border-radius: 6px;
+}
+
+
+
+.main-card-card {
+    border-radius: 6px;
+}
+
+.main-card-imageContainer {
+    margin: -16px -16px 16px -16px;
+}
+
+.main-cardImage-imageWrapper,
+.main-cardImage-image {
+    border-radius: 6px 6px 0 0;
+}
+
+/* Settings */
+
+input:hover:not([disabled]):not(:active)~.x-toggle-indicatorWrapper {
+  background-color: var(--spice-button-active);
+}
+
+select option:checked {
+  color: var(--spice-text);
+  font-weight: bold;
+}
+
+
+/*panel boczny*/
+
+
+
+#spicetify-sticky-list li:hover > div {
+    border-radius: 4px;
+}
+
+/* Buttons */
+.main-playButton-PlayButton.main-playButton-primary {
+    color: var(--spice-player);
+}
+
+.main-button-primary {
+    background-color: var(--spice-main);
+}
+.main-button-primary:active,
+.main-button-primary:focus,
+.main-button-primary:hover {
+    background-color: var(--spice-sidebar);
+}
+
+.main-view-container button:hover > div[class^='ButtonInner-sc-'] {
+    background-color: var(--spice-button);
+}
+
+.control-button-heart[aria-checked="true"],
+.main-addButton-active,
+.main-addButton-active:focus,
+.main-addButton-active:hover {
+    color: var(--red);
+}
+
+.main-addButton-active:hover {
+    -webkit-transform: scale(1.06);
+    transform: scale(1.06);
+}
+
+/* Progress bar */
+.x-progressBar-progressBarBg > div > div {
+    background-color: var(--spice-text);
+}
+
+/* Top bars */
+.main-entityHeader-backgroundColor,
+.main-actionBarBackground-background,
+.main-view-container main[aria-label="Spotify – Web Player"] > div:first-child {
+    display: none;
+}
+
+.main-topBar-background {
+    background-color: var(--spice-main) !important;
+}
+
+.main-entityHeader-withBackgroundImage {
+    background-color: rgba(var(--spice-rgb-player), 0.2);
+}
+
+
+:root{
+    --red: #F28FAD;
+}
+
+.main-trackList-trackListHeaderStuck.main-trackList-trackListHeader {
+    background: var(--spice-player);
+    border-bottom: 1pxsolidrgba(255,255,255,.1);
+    -webkit-box-shadow: 0 -1px 0 0 #20202000;
+    box-shadow: 0 -1px 0 0 #20202000;
+}
