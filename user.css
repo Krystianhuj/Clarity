@@ -3,6 +3,12 @@ Made by λοχικ#0001
 last update...
 */
 
+.q9GR66ZTM4HH42Z_qroQ {
+    grid-column: span min(var(--column-count));
+    grid-row: none;
+}
+
+
 
 .encore-dark-theme .encore-bright-accent-set {
     --background-highlight: #ffffff;
