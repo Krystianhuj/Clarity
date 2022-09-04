@@ -30,7 +30,7 @@ Open powershell and type:
 
 
 # Artist page:
-![image](https://user-images.githubusercontent.com/91804630/187789020-a9cdcf11-d2b0-43fb-9c37-ec9b1a145372.png)
+![image](https://user-images.githubusercontent.com/91804630/188291569-70c8802f-820f-4023-b61a-a55e520b1877.png)
 
 # Playlist page:
 ![image](https://user-images.githubusercontent.com/91804630/187789145-6eb9625c-6856-4211-b37c-59b0b8e394ca.png)
